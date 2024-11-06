@@ -1,0 +1,32 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# MAC OS 
+.DS_Store
+
+# Flutter/Dart 관련
+.dart_tool/
+.idea/caches/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+flutter_export_environment.sh
+.flutter-plugins-dependencies
+coverage/
+
+# iOS 관련
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner.xcconfig
+
+# Android 관련
+android/.gradle/
+android/app/build/
+.android/
+gradle.properties
+local.properties
